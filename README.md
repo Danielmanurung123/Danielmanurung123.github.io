@@ -2,4 +2,4 @@
 Base code for personal website exercise for WGTIK 2021
 
 example result:
-[https://danielmanurung123.github.io/WGTIK_2021/](https://danielmanurung123.github.io/WGTIK_2021/)
+[https://Danielmanurung123.github.io/Danielmanurung123.github.io/]
